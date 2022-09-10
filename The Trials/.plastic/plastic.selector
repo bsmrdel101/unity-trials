@@ -1,0 +1,4 @@
+repository "The Trials"
+  path "/"
+    smartbranch "/main"  
+     
