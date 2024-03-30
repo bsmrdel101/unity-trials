@@ -8,9 +8,7 @@
 6. Get started with the "Functions_0" file inside the "Scripts/Trial 1" folder.
 
 You can click on the failing tests to see the logs such as:
----
 Expected: 15
 But was: 10
----
 
 Don't forget to use `Debug.Log();`
