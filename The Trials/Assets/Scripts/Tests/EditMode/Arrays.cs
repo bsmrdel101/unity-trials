@@ -26,6 +26,7 @@ public class Arrays : MonoBehaviour
         [Test]
         public void AddMultipleNumbers_80()
         {
+            Arrays_1.ExampleForLoop();
             int[] numbers = { 20, -5, 45, 10, 10 };
             Assert.AreEqual(80, Arrays_1.AddMultipleNumbers(numbers));
         }
