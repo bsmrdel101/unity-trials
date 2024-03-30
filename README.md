@@ -9,10 +9,8 @@
 
 Don't forget to use `Debug.Log();`
 
-
-
 You can click on the failing tests to see the logs such as:
-
-_Expected: 15_
-
-_But was: 10_
+```
+Expected: 15
+But was: 10
+```
