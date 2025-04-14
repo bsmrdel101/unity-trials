@@ -7,8 +7,6 @@
 5. Now you just fix the code and click Run All again to check if the tests pass.
 6. Get started with the "Functions_0" file inside the "Scripts/Trial 1" folder.
 
-Don't forget to use `Debug.Log();`
-
 You can click on the failing tests to see the logs such as:
 ```
 Expected: 15
